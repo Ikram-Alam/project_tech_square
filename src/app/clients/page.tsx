@@ -16,8 +16,7 @@ const ClientsPage = () => {
         pageName="Our Clients"
         description="Trusted by businesses worldwide. See what our clients say about working with Tech Square."
       /> */}
-      <br />
-      <br />
+
       <Clients />
     </>
   );

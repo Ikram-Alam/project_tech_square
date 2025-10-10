@@ -86,7 +86,7 @@ export default function Video() {
               </p>
               <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0">
                 <Link
-                  href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I%20want%20to%20start%20my%20transformation%20journey"
+                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20start%20my%20transformation%20journey"
                   className="group relative overflow-hidden rounded-full bg-gradient-to-r from-primary to-secondary px-8 py-4 text-base font-semibold text-white transition-all duration-300 hover:scale-105 hover:shadow-2xl"
                   target="_blank"
                 >

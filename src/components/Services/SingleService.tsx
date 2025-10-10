@@ -16,7 +16,7 @@ const SingleService = ({ service }: { service: Feature }) => {
         </p>
         <div className="mt-6">
           <a
-            href={`https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20${encodeURIComponent(title)}%20services`}
+            href={`https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20${encodeURIComponent(title)}%20services`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block rounded-sm bg-primary px-6 py-3 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp"

@@ -33,7 +33,7 @@ const FloatingWhatsApp = () => {
     };
   }, [isDialogOpen]);
 
-  const whatsappNumber = "+923324038258";
+  const whatsappNumber = "+923313587093";
   const defaultMessage = "Hi Tech Square! I'm interested in your services and would like to know more about how you can help transform my business.";
   
   // Helper functions for different WhatsApp links
@@ -127,17 +127,7 @@ const FloatingWhatsApp = () => {
                   Hi there! 👋 How can we help transform your business today?
                 </p>
               </div>
-              
-              {/* Message Template Display */}
-              <div className="mt-3 rounded-lg bg-green-50 border border-green-200 p-3 dark:bg-green-900/20 dark:border-green-800">
-                <p className="text-xs text-green-700 dark:text-green-300 mb-1 font-medium">
-                  💡 If message doesn't auto-fill, copy this:
-                </p>
-                <div className="bg-white dark:bg-gray-800 rounded p-2 text-xs text-gray-600 dark:text-gray-300 border">
-                  "{defaultMessage}"
-                </div>
               </div>
-            </div>
             
             <div className="space-y-2">
               <Link
@@ -189,13 +179,10 @@ const FloatingWhatsApp = () => {
                   <svg width="16" height="16" viewBox="0 0 24 24" className="fill-current">
                     <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
                   </svg>
-                  <span>WhatsApp Web (Recommended)</span>
                 </Link>
               </div>
               
-              <p className="mt-2 text-xs text-gray-500 dark:text-gray-400 text-center">
-                💡 WhatsApp Web works better with pre-filled messages
-              </p>
+
             </div>
           </div>
         </div>

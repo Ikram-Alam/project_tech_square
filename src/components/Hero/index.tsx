@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 
 const Hero = () => {
   return (
@@ -24,8 +25,8 @@ const Hero = () => {
       <div className="container relative z-20">
         <div className="flex flex-wrap items-center min-h-[80vh]">
           {/* Left Column - Content */}
-          <div className="w-full px-4 lg:w-1/2">
-            <div className="max-w-[600px]">
+          <div className="w-full px-4 xl:w-1/2">
+            <div className="max-w-[600px] mx-auto xl:mx-0">
               {/* Badge */}
               <div className="mb-6 inline-block animate-fade-in opacity-0 [animation-delay:0.2s]">
                 <span className="inline-flex items-center space-x-2 rounded-full bg-gradient-to-r from-primary/10 to-secondary/10 px-6 py-3 text-sm font-semibold text-primary backdrop-blur-sm">
@@ -86,7 +87,7 @@ const Hero = () => {
               {/* CTA Buttons */}
               <div className="flex flex-col space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0 animate-fade-in opacity-0 [animation-delay:1s]">
                 <Link
-                  href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20ready%20to%20transform%20my%20business"
+                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20ready%20to%20transform%20my%20business"
                   className="group relative overflow-hidden rounded-full bg-gradient-to-r from-primary to-secondary px-8 py-4 text-base font-semibold text-white transition-all duration-300 hover:scale-105 hover:shadow-2xl"
                   target="_blank"
                 >
@@ -131,7 +132,7 @@ const Hero = () => {
           </div>
 
           {/* Right Column - Visual */}
-          <div className="w-full px-4 lg:w-1/2">
+          <div className="hidden xl:block w-full px-4 xl:w-1/2">
             <div className="relative mx-auto max-w-[600px] animate-fade-in opacity-0 [animation-delay:0.8s]">
               {/* Main Visual Container */}
               <div className="group relative aspect-square overflow-hidden rounded-3xl bg-gradient-to-br from-primary/20 via-secondary/20 to-yellow/20 p-8 backdrop-blur-sm">
@@ -157,9 +158,11 @@ const Hero = () => {
                 <div className="flex h-full items-center justify-center">
                   <div className="text-center">
                     <div className="mx-auto mb-8 rounded-3xl bg-white/20 p-12 backdrop-blur-sm transition-transform duration-500 group-hover:scale-110 group-hover:rotate-3">
-                      <img 
+                      <Image 
                         src="/logo.jpeg" 
                         alt="Tech Square Logo" 
+                        width={96}
+                        height={96}
                         className="h-24 w-24 mx-auto object-contain"
                       />
                       <div className="mt-2 h-1 w-16 bg-gradient-to-r from-primary via-secondary to-yellow"></div>

@@ -1,15 +1,29 @@
 {
-  "name": "startup-nextjs-template",
-  "version": "2.2.0",
+  "name": "techsquare-website",
+  "version": "1.0.0",
+  "description": "Tech Square - Leading Digital Solutions & AI Automation Company Website",
   "private": true,
+  "author": "Tech Square <techsquare.corp@gmail.com>",
+  "homepage": "https://techsquare.com",
+  "keywords": [
+    "digital solutions",
+    "web development", 
+    "AI automation",
+    "creative design",
+    "tech square",
+    "pakistan"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "lint:fix": "next lint --fix",
     "analyze": "cross-env ANALYZE=true npm run build",
     "build:prod": "npm run lint && npm run build",
-    "lighthouse": "lighthouse http://localhost:3000 --view"
+    "lighthouse": "lighthouse http://localhost:3000 --view --output=html --output-path=./lighthouse-report.html",
+    "seo:test": "npm run build && echo 'Build successful - ready for SEO testing'",
+    "deploy:check": "npm run lint && npm run build && echo 'Ready for deployment!'"
   },
   "dependencies": {
     "eslint": "^9.24.0",

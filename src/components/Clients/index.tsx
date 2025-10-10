@@ -44,7 +44,7 @@ const clientsData: ClientTestimonial[] = [
 
 const Clients = () => {
   return (
-    <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
+    <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 pt-24 pb-16 sm:pt-28 sm:pb-20 md:pt-20 md:pb-20 lg:pt-28 lg:pb-28">
       <div className="container">
         <SectionTitle
           title="What Our Clients Say"
@@ -104,7 +104,7 @@ const Clients = () => {
               Let's create the next success story together. Contact us to discuss your project and see how we can help transform your business.
             </p>
             <Link
-              href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I%20want%20to%20be%20your%20next%20success%20story"
+              href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20be%20your%20next%20success%20story"
               target="_blank"
               className="inline-block rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
             >

@@ -78,7 +78,7 @@ const AboutSectionOne = () => {
   ];
 
   return (
-    <section id="about" className="relative overflow-hidden bg-gradient-to-br from-gray-50 via-white to-primary/5 pt-16 dark:from-gray-dark dark:via-gray-dark dark:to-gray-dark md:pt-20 lg:pt-28">
+    <section id="about" className="relative overflow-hidden bg-gradient-to-br from-gray-50 via-white to-primary/5 pt-24 sm:pt-28 md:pt-20 lg:pt-28 dark:from-gray-dark dark:via-gray-dark dark:to-gray-dark">
       {/* Background Elements */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute top-1/3 left-1/4 h-64 w-64 rounded-full bg-primary/5 blur-3xl"></div>
@@ -88,9 +88,9 @@ const AboutSectionOne = () => {
 
       <div className="container relative z-10">
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
-          <div className="grid items-center gap-16 lg:grid-cols-2">
+          <div className="grid items-center gap-16 xl:grid-cols-2">
             {/* Left Column - Content */}
-            <div className="order-2 lg:order-1">
+            <div className="order-2 xl:order-1">
               {/* Header Section */}
               <div className="mb-8">
                 <span className="mb-4 inline-block rounded-full bg-primary/10 px-6 py-2 text-sm font-semibold text-primary">
@@ -134,7 +134,7 @@ const AboutSectionOne = () => {
                 
                 <div className="flex flex-col gap-4 sm:flex-row">
                   <Link
-                    href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20your%20services"
+                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20your%20services"
                     target="_blank"
                     className="inline-flex items-center justify-center space-x-2 rounded-full bg-primary px-6 py-3 font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
                   >
@@ -158,7 +158,7 @@ const AboutSectionOne = () => {
             </div>
 
             {/* Right Column - Enhanced Visual */}
-            <div className="order-1 lg:order-2">
+            <div className="order-1 xl:order-2 hidden xl:block">
               <div className="relative">
                 {/* Main Visual Container */}
                 <div className="group relative mx-auto aspect-square max-w-[500px] overflow-hidden rounded-3xl bg-gradient-to-br from-primary/20 via-secondary/20 to-yellow/20 p-8">

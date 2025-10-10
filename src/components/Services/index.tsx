@@ -5,7 +5,7 @@ import servicesData from "./servicesData";
 const Services = () => {
   return (
     <>
-      <section id="services" className="py-16 md:py-20 lg:py-28">
+      <section id="services" className="pt-24 pb-16 sm:pt-28 sm:pb-20 md:pt-20 md:pb-20 lg:pt-28 lg:pb-28">
         <div className="container">
           <SectionTitle
             title="Our Services"
@@ -36,7 +36,7 @@ const Services = () => {
                     <li className="text-body-color">• Illustration</li>
                   </ul>
                   <a
-                    href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20Creative%20&%20Design%20services"
+                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20Creative%20&%20Design%20services"
                     target="_blank"
                     className="inline-block rounded-sm bg-primary px-6 py-3 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp"
                   >
@@ -66,7 +66,7 @@ const Services = () => {
                     <li className="text-body-color">• SaaS Solutions</li>
                   </ul>
                   <a
-                    href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20Digital%20Solutions"
+                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20Digital%20Solutions"
                     target="_blank"
                     className="inline-block rounded-sm bg-secondary px-6 py-3 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp"
                   >
@@ -95,7 +95,7 @@ const Services = () => {
                     <li className="text-body-color">• Chatbots</li>
                   </ul>
                   <a
-                    href="https://wa.me/923324038258?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20AI%20&%20Automation%20services"
+                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20AI%20&%20Automation%20services"
                     target="_blank"
                     className="inline-block rounded-sm bg-yellow px-6 py-3 text-base font-medium text-white transition duration-300 ease-in-out hover:bg-opacity-80 hover:shadow-signUp"
                   >
