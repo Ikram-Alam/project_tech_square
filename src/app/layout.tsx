@@ -86,7 +86,7 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'your-google-verification-code',
+    google: 'rkf--ZPSj9VO6xR7Lcs71kirjivlXXzTjpJfNj09-0E',
     yandex: 'your-yandex-verification-code',
     other: {
       'msvalidate.01': 'your-bing-verification-code',
