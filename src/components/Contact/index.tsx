@@ -50,7 +50,7 @@ const Contact = () => {
                 </p>
                 
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20help%20with%20my%20project"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20help%20with%20my%20project"
                   target="_blank"
                   className="inline-flex items-center space-x-2 rounded-full bg-white px-8 py-4 font-semibold text-primary transition-all duration-300 hover:bg-white/90 hover:scale-105"
                 >
@@ -70,7 +70,7 @@ const Contact = () => {
               
               <div className="grid gap-4 grid-cols-1 sm:grid-cols-2">
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20creative%20design%20services"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20creative%20design%20services"
                   target="_blank"
                   className="group flex items-center space-x-3 rounded-xl bg-primary/5 p-3 sm:p-4 transition-all duration-300 hover:bg-primary/10 hover:scale-105"
                 >
@@ -86,7 +86,7 @@ const Contact = () => {
                 </Link>
 
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20digital%20solutions"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20digital%20solutions"
                   target="_blank"
                   className="group flex items-center space-x-3 rounded-xl bg-secondary/5 p-3 sm:p-4 transition-all duration-300 hover:bg-secondary/10 hover:scale-105"
                 >
@@ -102,7 +102,7 @@ const Contact = () => {
                 </Link>
 
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20AI%20automation%20solutions"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20AI%20automation%20solutions"
                   target="_blank"
                   className="group flex items-center space-x-3 rounded-xl bg-yellow/5 p-3 sm:p-4 transition-all duration-300 hover:bg-yellow/10 hover:scale-105"
                 >
@@ -119,7 +119,7 @@ const Contact = () => {
                 </Link>
 
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20my%20project"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20my%20project"
                   target="_blank"
                   className="group flex items-center space-x-3 rounded-xl bg-gray-100 p-3 sm:p-4 transition-all duration-300 hover:bg-gray-200 hover:scale-105 dark:bg-dark dark:hover:bg-gray-800"
                 >
@@ -167,7 +167,7 @@ const Contact = () => {
                   </div>
                   <div className="flex-1 min-w-0">
                     <h4 className="font-semibold text-black dark:text-white text-sm sm:text-base">Call Us</h4>
-                    <p className="text-body-color text-xs sm:text-sm">+92 3313587093</p>
+                    <p className="text-body-color text-xs sm:text-sm">0335 3855193</p>
                   </div>
                   <div className="text-xs sm:text-sm text-body-color hidden sm:block">Mon-Fri 9-6</div>
                 </div>
@@ -238,7 +238,7 @@ const Contact = () => {
             </p>
             <div className="flex flex-col items-center justify-center gap-3 sm:gap-4 sm:flex-row">
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20start%20a%20new%20project"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20to%20start%20a%20new%20project"
                 target="_blank"
                 className="w-full sm:w-auto rounded-full bg-white px-6 py-3 sm:px-8 sm:py-4 font-semibold text-primary transition-all duration-300 hover:bg-white/90 hover:scale-105 text-sm sm:text-base"
               >

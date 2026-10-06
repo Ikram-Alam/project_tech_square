@@ -1,5 +1,5 @@
 // WhatsApp integration utilities
-export const WHATSAPP_NUMBER = "+923313587093";
+export const WHATSAPP_NUMBER = "+923353855193";
 
 // Pre-built message templates for different services
 export const WhatsAppMessages = {

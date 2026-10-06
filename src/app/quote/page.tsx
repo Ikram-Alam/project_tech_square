@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Get Free Quote - Web Development, AI Automation & Design | Tech Square",
-  description: "Get instant free quote for web development, AI automation, creative design projects. WhatsApp +923313587093 for quick response. No hidden costs, transparent pricing.",
+  description: "Get instant free quote for web development, AI automation, creative design projects. WhatsApp 0335 3855193 for quick response. No hidden costs, transparent pricing.",
   keywords: [
     "free quote tech square",
     "web development quote",

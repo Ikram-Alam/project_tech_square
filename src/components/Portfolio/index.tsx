@@ -167,7 +167,7 @@ const Portfolio = () => {
                 {/* Action Buttons */}
                 <div className="flex items-center gap-3">
                   <Link
-                    href={`https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20a%20project%20like%20${encodeURIComponent(item.title)}`}
+                    href={`https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20a%20project%20like%20${encodeURIComponent(item.title)}`}
                     target="_blank"
                     className="flex-1 rounded-lg bg-primary px-4 py-2 text-center text-sm font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
                   >
@@ -223,7 +223,7 @@ const Portfolio = () => {
                   </div>
 
                   <Link
-                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20discuss%20enterprise%20solutions"
+                    href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20to%20discuss%20enterprise%20solutions"
                     target="_blank"
                     className="inline-flex items-center space-x-2 rounded-full bg-primary px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
                   >
@@ -266,7 +266,7 @@ const Portfolio = () => {
             
             <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20ready%20to%20start%20my%20project"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I'm%20ready%20to%20start%20my%20project"
                 target="_blank"
                 className="rounded-full bg-primary px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
               >
@@ -281,7 +281,7 @@ const Portfolio = () => {
               </Link>
               
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20see%20more%20portfolio%20examples"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20to%20see%20more%20portfolio%20examples"
                 target="_blank"
                 className="rounded-full bg-secondary px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-secondary/80 hover:scale-105"
               >

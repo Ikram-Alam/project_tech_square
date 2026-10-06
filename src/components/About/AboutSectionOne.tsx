@@ -134,7 +134,7 @@ const AboutSectionOne = () => {
                 
                 <div className="flex flex-col gap-4 sm:flex-row">
                   <Link
-                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20your%20services"
+                    href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I'm%20interested%20in%20your%20services"
                     target="_blank"
                     className="inline-flex items-center justify-center space-x-2 rounded-full bg-primary px-6 py-3 font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
                   >

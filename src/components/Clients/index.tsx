@@ -104,7 +104,7 @@ const Clients = () => {
               Let's create the next success story together. Contact us to discuss your project and see how we can help transform your business.
             </p>
             <Link
-              href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20be%20your%20next%20success%20story"
+              href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20to%20be%20your%20next%20success%20story"
               target="_blank"
               className="inline-block rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
             >

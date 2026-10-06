@@ -33,7 +33,7 @@ const FloatingWhatsApp = () => {
     };
   }, [isDialogOpen]);
 
-  const whatsappNumber = "+923313587093";
+  const whatsappNumber = "+923353855193";
   const defaultMessage = "Hi Tech Square! I'm interested in your services and would like to know more about how you can help transform my business.";
   
   // Helper functions for different WhatsApp links

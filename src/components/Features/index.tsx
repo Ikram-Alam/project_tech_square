@@ -55,7 +55,7 @@ const Features = () => {
                   Visual identity, branding, and creative solutions that make your business stand out.
                 </p>
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20creative%20design%20services"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20creative%20design%20services"
                   target="_blank"
                   className="inline-flex items-center space-x-2 text-primary transition-colors hover:text-primary/80"
                 >
@@ -83,7 +83,7 @@ const Features = () => {
                   Web development, e-commerce platforms, and digital transformation services.
                 </p>
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20digital%20solutions"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20digital%20solutions"
                   target="_blank"
                   className="inline-flex items-center space-x-2 text-secondary transition-colors hover:text-secondary/80"
                 >
@@ -111,7 +111,7 @@ const Features = () => {
                   Intelligent solutions, chatbots, and automation tools to streamline your business.
                 </p>
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20AI%20automation%20solutions"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20AI%20automation%20solutions"
                   target="_blank"
                   className="inline-flex items-center space-x-2 text-yellow transition-colors hover:text-yellow/80"
                 >
@@ -158,7 +158,7 @@ const Features = () => {
                 
                 <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                   <Link
-                    href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20want%20to%20discuss%20my%20project"
+                    href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20want%20to%20discuss%20my%20project"
                     target="_blank"
                     className="rounded-full bg-primary px-8 py-4 font-semibold text-white transition-all duration-300 hover:bg-primary/80 hover:scale-105"
                   >

@@ -54,7 +54,7 @@ const SingleFeature = ({ feature, index }: { feature: Feature; index?: number })
           
           <div className="flex items-center justify-between">
             <Link
-              href={`https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20${encodeURIComponent(title.toLowerCase())}%20services`}
+              href={`https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20${encodeURIComponent(title.toLowerCase())}%20services`}
               target="_blank"
               className={`inline-flex items-center space-x-2 rounded-full bg-${colorClass}/10 px-4 py-2 text-sm font-semibold text-${colorClass} transition-all duration-300 hover:bg-${colorClass} hover:text-white hover:scale-105`}
             >

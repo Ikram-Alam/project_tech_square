@@ -77,7 +77,7 @@ const Quote = () => {
               
               <div className="mb-8 flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-x-4 sm:space-y-0">
                 <Link
-                  href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20an%20instant%20quote%20for%20my%20project"
+                  href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20an%20instant%20quote%20for%20my%20project"
                   target="_blank"
                   className="group relative overflow-hidden rounded-full bg-gradient-to-r from-primary to-secondary px-10 py-5 text-lg font-semibold text-white transition-all duration-300 hover:scale-105 hover:shadow-2xl"
                 >
@@ -157,7 +157,7 @@ const Quote = () => {
               </div>
               
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20Creative%20&%20Design%20services"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20Creative%20&%20Design%20services"
                 target="_blank"
                 className="group/btn inline-flex items-center space-x-2 rounded-xl bg-primary px-6 py-3 text-white transition-all duration-300 hover:bg-primary/90 hover:shadow-lg"
               >
@@ -205,7 +205,7 @@ const Quote = () => {
               </div>
               
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20Digital%20Solutions"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20Digital%20Solutions"
                 target="_blank"
                 className="group/btn inline-flex items-center space-x-2 rounded-xl bg-secondary px-6 py-3 text-white transition-all duration-300 hover:bg-secondary/90 hover:shadow-lg"
               >
@@ -253,7 +253,7 @@ const Quote = () => {
               </div>
               
               <Link
-                href="https://wa.me/923313587093?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20AI%20&%20Automation%20solutions"
+                href="https://wa.me/923353855193?text=Hi%20Tech%20Square,%20I%20need%20a%20quote%20for%20AI%20&%20Automation%20solutions"
                 target="_blank"
                 className="group/btn inline-flex items-center space-x-2 rounded-xl bg-yellow px-6 py-3 text-white transition-all duration-300 hover:bg-yellow/90 hover:shadow-lg"
               >
@@ -280,7 +280,7 @@ const Quote = () => {
                   </svg>
                 </div>
                 <h4 className="mb-2 font-bold text-black dark:text-white">WhatsApp</h4>
-                <p className="text-sm text-body-color">+92 3313587093</p>
+                <p className="text-sm text-body-color">0335 3855193</p>
                 <p className="text-xs text-body-color">Instant responses</p>
               </div>
               
@@ -302,7 +302,7 @@ const Quote = () => {
                   </svg>
                 </div>
                 <h4 className="mb-2 font-bold text-black dark:text-white">Phone</h4>
-                <p className="text-sm text-body-color">+92 3300278248</p>
+                <p className="text-sm text-body-color">0335 3855193</p>
                 <p className="text-xs text-body-color">Direct consultation</p>
               </div>
             </div>

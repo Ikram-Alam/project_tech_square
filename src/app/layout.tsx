@@ -99,7 +99,7 @@ export const metadata: Metadata = {
     },
   },
   other: {
-    'contact:phone_number': '+923313587093',
+    'contact:phone_number': '+923353855193',
     'contact:country_name': 'Pakistan',
     'contact:region': 'Karachi',
     'business:contact_data:street_address': 'Karachi, Pakistan',
@@ -137,7 +137,7 @@ export default function RootLayout({
               url: "https://techsquare.com",
               logo: "https://techsquare.com/logo.jpeg",
               image: "https://techsquare.com/logo.jpeg",
-              telephone: "+923313587093",
+              telephone: "+923353855193",
               email: "techsquare.corp@gmail.com",
               address: {
                 "@type": "PostalAddress",
@@ -157,13 +157,13 @@ export default function RootLayout({
               ],
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+923313587093",
+                telephone: "+923353855193",
                 contactType: "customer service",
                 availableLanguage: ["English", "Urdu"],
                 contactOption: "TollFree"
               },
               sameAs: [
-                "https://wa.me/923313587093"
+                "https://wa.me/923353855193"
               ],
               services: [
                 "Digital Solutions",
@@ -193,7 +193,7 @@ export default function RootLayout({
               name: "Tech Square",
               description: "Transform your business with expert digital solutions and AI automation",
               url: "https://techsquare.com",
-              telephone: "+923313587093",
+              telephone: "+923353855193",
               priceRange: "$$",
               address: {
                 "@type": "PostalAddress",

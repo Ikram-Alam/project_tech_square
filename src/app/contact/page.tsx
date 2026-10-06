@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Contact Tech Square - Get Free Consultation | 24/7 WhatsApp Support",
-  description: "Contact Tech Square for digital solutions, AI automation, and creative design services. 24/7 WhatsApp support +923313587093. Free consultation available. Based in Karachi, Pakistan.",
+  description: "Contact Tech Square for digital solutions, AI automation, and creative design services. 24/7 WhatsApp support 0335 3855193. Free consultation available. Based in Karachi, Pakistan.",
   keywords: [
     "contact tech square",
     "WhatsApp business support",
@@ -58,7 +58,7 @@ const ContactPage = () => {
             description: "Contact Tech Square for digital solutions, AI automation, and creative design services. 24/7 WhatsApp support available.",
             mainEntity: {
               "@type": "ContactPoint",
-              telephone: "+923313587093",
+              telephone: "+923353855193",
               contactType: "customer service",
               availableLanguage: ["English", "Urdu"],
               contactOption: ["TollFree"],
@@ -84,7 +84,7 @@ const ContactPage = () => {
             potentialAction: {
               "@type": "CommunicateAction",
               name: "Contact via WhatsApp",
-              target: "https://wa.me/923313587093"
+              target: "https://wa.me/923353855193"
             }
           })
         }}
